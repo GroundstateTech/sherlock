@@ -1,4 +1,36 @@
 {
+   "Facebook": {
+    "errorType": "status_code",
+    "url": "https://www.facebook.com/@{}",
+    "urlMain": "https://www.facebook.com/",
+    "username_claimed": "blue"
+  },
+
+{
+   "X": {
+    "errorType": "status_code",
+    "url": "https://www.x.com/@{}",
+    "urlMain": "https://www.x.com/",
+    "username_claimed": "blue"
+  }, 
+
+ {
+   "Onlyfans": {
+    "errorType": "status_code",
+    "url": "https://www.onlyfans.com/@{}",
+    "urlMain": "https://www.onlyfans.com/",
+    "username_claimed": "blue"
+  }, 
+
+  {
+   "Pornhub": {
+    "errorType": "status_code",
+    "url": "https://www.pornhub.com/@{}",
+    "urlMain": "https://www.pornhub.com/",
+    "username_claimed": "blue"
+  },
+
+{  
   "$schema": "data.schema.json",
   "1337x": {
     "errorMsg": [
